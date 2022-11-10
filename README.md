@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bulumko Madikane
-- 👀 I’m interested in building tech based solutions to everday problems
+- 👀 I’m interested in building tech based solutions to every day problems
 - 🌱 I’m currently working as a Software Engineer
 - 📫 How to reach me, thebulmad@gmail.com
 
